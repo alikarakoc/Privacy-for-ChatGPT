@@ -5,8 +5,10 @@
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
 </p>
 
-![image](https://github.com/alikarakoc/Privacy-for-ChatGPT/assets/16520480/6c1b6577-5cd3-4edf-8502-e05f05b6c833)
-![image](https://github.com/alikarakoc/Privacy-for-ChatGPT/assets/16520480/20afb770-ec07-4344-9dad-c5ca5c98b854)
+![image](https://github.com/alikarakoc/Privacy-for-ChatGPT/assets/16520480/00e3bb25-7d9d-477a-aa7b-9b2334e9571c)
+
+![image](https://github.com/alikarakoc/Privacy-for-ChatGPT/assets/16520480/7a9e7884-41c3-4356-9024-828867c3c887)
+ 
 
 <h2 align="center">Privacy Extension for ChatGPT</h2>
 

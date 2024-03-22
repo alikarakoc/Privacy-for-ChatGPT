@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Privacy for ChatGPT"
+    },
+    "extensionDescription": {
+        "message": "يخفي رسائلك حتى تحدها."
+    },
+    "extensionToggle": {
+        "message": "تشغيل/إيقاف"
+    },
+    "toggleMessages": {
+        "message": "يتموه جميع الأسئلة في الدردشة."
+    },
+    "footerBugReports": {
+        "message": "تقارير الأخطاء والاقتراحات"
+    },
+    "footerBugReportsDescription": {
+        "message": "عند مواجهة مشاكل أو طلب ميزة، يرجى إرسال بريد إلكتروني إلي: mail@alikarakoc.com"
+    },
+    "footerAuthor": {
+        "message": "المطور"
+    },
+    "footerReleaseNotes": {
+        "message": "alikarakoc"
+    },
+    "footerReleaseNotesDescription": {
+        "message": "عرض ملاحظات الإصدار."
+    },
+    "textInput": {
+        "message": "إدخال النص"
+    },
+    "hideMyInChatQuestions": {
+        "message": "إخفاء أسئلتي في الدردشة"
+    },
+    "hideRepliesInChat": {
+        "message": "إخفاء الردود في الدردشة."
+    }
+}

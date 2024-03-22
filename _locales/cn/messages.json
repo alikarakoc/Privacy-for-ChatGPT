@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Privacy for ChatGPT"
+    },
+    "extensionDescription": {
+        "message": "直到您悬停在其上，隐藏您的消息。"
+    },
+    "extensionToggle": {
+        "message": "开/关"
+    },
+    "toggleMessages": {
+        "message": "模糊聊天中的所有问题。"
+    },
+    "footerBugReports": {
+        "message": "错误报告和建议"
+    },
+    "footerBugReportsDescription": {
+        "message": "如果遇到问题或有功能请求，请发送电子邮件至：mail@alikarakoc.com"
+    },
+    "footerAuthor": {
+        "message": "作者"
+    },
+    "footerReleaseNotes": {
+        "message": "alikarakoc"
+    },
+    "footerReleaseNotesDescription": {
+        "message": "查看发布说明。"
+    },
+    "textInput": {
+        "message": "文本输入"
+    },
+    "hideMyInChatQuestions": {
+        "message": "隐藏我在聊天中的问题"
+    },
+    "hideRepliesInChat": {
+        "message": "隐藏聊天中的回复。"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Privacy for ChatGPT"
+    },
+    "extensionDescription": {
+        "message": "あなたのメッセージをホバーするまで非表示にします。"
+    },
+    "extensionToggle": {
+        "message": "オン/オフ"
+    },
+    "toggleMessages": {
+        "message": "チャット内のすべての質問をぼかします。"
+    },
+    "footerBugReports": {
+        "message": "バグレポートと提案"
+    },
+    "footerBugReportsDescription": {
+        "message": "問題が発生した場合や機能リクエストがある場合は、メールでお知らせください: mail@alikarakoc.com"
+    },
+    "footerAuthor": {
+        "message": "作者"
+    },
+    "footerReleaseNotes": {
+        "message": "alikarakoc"
+    },
+    "footerReleaseNotesDescription": {
+        "message": "リリースノートを表示します。"
+    },
+    "textInput": {
+        "message": "テキスト入力"
+    },
+    "hideMyInChatQuestions": {
+        "message": "チャット内の私の質問を非表示にする"
+    },
+    "hideRepliesInChat": {
+        "message": "チャット内の返信を非表示にする。"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Privacy for ChatGPT"
+    },
+    "extensionDescription": {
+        "message": "Mesajlarınızı üzerine gelene kadar gizler."
+    },
+    "extensionToggle": {
+        "message": "Aç/Kapat"
+    },
+    "toggleMessages": {
+        "message": "Sohbetteki tüm soruları bulanıklaştırır."
+    },
+    "footerBugReports": {
+        "message": "Hata Bildirimleri ve Öneriler"
+    },
+    "footerBugReportsDescription": {
+        "message": "Sorunlarla karşılaşırsanız veya bir özellik isteğiniz varsa lütfen bana e-posta gönderin: mail@alikarakoc.com"
+    },
+    "footerAuthor": {
+        "message": "Geliştirici"
+    },
+    "footerReleaseNotes": {
+        "message": "alikarakoc"
+    },
+    "footerReleaseNotesDescription": {
+        "message": "Sürüm notlarını görüntüleyin."
+    },
+    "textInput": {
+        "message": "Metin girişi"
+    },
+    "hideMyInChatQuestions": {
+        "message": "Sohbetimdeki sorularımı gizle"
+    },
+    "hideRepliesInChat": {
+        "message": "Sohbetteki yanıtları gizle."
+    }
+}

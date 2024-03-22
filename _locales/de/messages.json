@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Privacy for ChatGPT"
+    },
+    "extensionDescription": {
+        "message": "Verbirgt Ihre Nachrichten, bis Sie darauf zeigen."
+    },
+    "extensionToggle": {
+        "message": "Ein/Aus"
+    },
+    "toggleMessages": {
+        "message": "Verwischt alle Fragen im Chat."
+    },
+    "footerBugReports": {
+        "message": "Fehlermeldungen und Vorschläge"
+    },
+    "footerBugReportsDescription": {
+        "message": "Wenn Sie auf Probleme stoßen oder einen Funktionswunsch haben, senden Sie mir bitte eine E-Mail: mail@alikarakoc.com"
+    },
+    "footerAuthor": {
+        "message": "Entwickler"
+    },
+    "footerReleaseNotes": {
+        "message": "alikarakoc"
+    },
+    "footerReleaseNotesDescription": {
+        "message": "Versionshinweise anzeigen."
+    },
+    "textInput": {
+        "message": "Texteingabe"
+    },
+    "hideMyInChatQuestions": {
+        "message": "Meine Fragen im Chat verstecken"
+    },
+    "hideRepliesInChat": {
+        "message": "Antworten im Chat verstecken."
+    }
+}

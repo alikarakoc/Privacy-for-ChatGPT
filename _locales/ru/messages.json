@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Privacy for ChatGPT"
+    },
+    "extensionDescription": {
+        "message": "Скрывает ваши сообщения до тех пор, пока вы на них не наведете."
+    },
+    "extensionToggle": {
+        "message": "Вкл./Выкл."
+    },
+    "toggleMessages": {
+        "message": "Размывает все вопросы в чате."
+    },
+    "footerBugReports": {
+        "message": "Сообщения об ошибках и предложения"
+    },
+    "footerBugReportsDescription": {
+        "message": "Если у вас возникли проблемы или у вас есть запрос на функцию, отправьте мне письмо: mail@alikarakoc.com"
+    },
+    "footerAuthor": {
+        "message": "Разработчик"
+    },
+    "footerReleaseNotes": {
+        "message": "alikarakoc"
+    },
+    "footerReleaseNotesDescription": {
+        "message": "Просмотреть заметки о выпуске."
+    },
+    "textInput": {
+        "message": "Ввод текста"
+    },
+    "hideMyInChatQuestions": {
+        "message": "Скрыть мои вопросы в чате"
+    },
+    "hideRepliesInChat": {
+        "message": "Скрыть ответы в чате."
+    }
+}

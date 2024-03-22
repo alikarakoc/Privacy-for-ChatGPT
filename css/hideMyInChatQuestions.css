@@ -1,0 +1,6 @@
+[data-message-author-role="user"] {
+    filter: blur(10px);
+}
+[data-message-author-role="user"]:hover {
+    filter: none;
+}

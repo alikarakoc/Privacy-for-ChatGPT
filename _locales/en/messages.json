@@ -1,0 +1,41 @@
+{
+    "extensionName": {
+        "message": "Privacy for ChatGPT"
+    },
+    "extensionDescription": {
+        "message": "Hides your messages until you hover over them."
+    },
+    "extensionToggle": {
+        "message": "Toggle"
+    },
+    "toggleMessages": {
+        "message": "Blurs all questions in the chat."
+    },
+    "toggleMessagesDescription": {
+        "message": "Blurs all questions in the chat."
+    },
+    "footerBugReports": {
+        "message": "Bug reports & Suggestions"
+    },
+    "footerBugReportsDescription": {
+        "message": "When you encounter issues or have a feature request please email me: contact@lukaslen.com"
+    },
+    "footerAuthor": {
+        "message": "Author"
+    },
+    "footerReleaseNotes": {
+        "message": "alikarakoc"
+    },
+    "footerReleaseNotesDescription": {
+        "message": "View the release notes."
+    },
+    "textInput": {
+        "message": "Text input"
+    },
+    "hideMyInChatQuestions": {
+        "message": "Hide my in-chat questions"
+    },
+    "hideRepliesInChat": {
+        "message": "Hide replies in chat."
+    }
+}

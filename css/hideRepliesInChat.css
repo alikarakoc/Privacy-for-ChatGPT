@@ -1,0 +1,6 @@
+[data-message-author-role="assistant"] {
+    filter: blur(10px);
+}
+[data-message-author-role="assistant"]:hover {
+    filter: none;
+}

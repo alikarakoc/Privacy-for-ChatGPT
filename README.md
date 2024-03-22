@@ -6,6 +6,7 @@
 </p>
 
 ![image](https://github.com/alikarakoc/Privacy-for-ChatGPT/assets/16520480/6c1b6577-5cd3-4edf-8502-e05f05b6c833)
+![image](https://github.com/alikarakoc/Privacy-for-ChatGPT/assets/16520480/20afb770-ec07-4344-9dad-c5ca5c98b854)
 
 <h2 align="center">Privacy Extension for ChatGPT</h2>
 
@@ -33,4 +34,4 @@ Privacy for ChatGPT is licensed under the MIT License.
 
 ### About the Developer
 
-Privacy for ChatGPT is developed and maintained by Your Name.
+Privacy for ChatGPT is developed and maintained by Ali Karakoç.

@@ -1,10 +1,4 @@
-/* Privacy Extension for WhatsApp(TM) Web                       */
-/* Copyright (c) 2024 Lukas Lenhardt - lukaslen.com             */
-/* Released under the MIT license, see LICENSE file for details */
-
-// Remove this upon Chrome supporting the browser namespace
 if (typeof browser == "undefined") {
-  // Redefine browser namespace for Chrome for interoperability with Firefox
   globalThis.browser = chrome;
 }
 
@@ -53,13 +47,9 @@ function updateStyles() {
     });
   });
 }
-
-// Update styles on setting change
 browser.storage.onChanged.addListener((changes, area) => {
   if (area == "sync" && changes.settings != null) {
     updateStyles();
   }
 });
-
-// Initial update once page loaded
 updateStyles();

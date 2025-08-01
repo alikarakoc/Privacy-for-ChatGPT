@@ -2,3 +2,6 @@
   filter: blur(5px);
 }
 
+:is(.__menu-item[data-has-submenu], .__menu-item:has(.trailing))[data-fill] {
+  filter: blur(5px);
+}

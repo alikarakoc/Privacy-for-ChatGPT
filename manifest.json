@@ -3,7 +3,7 @@
   "default_locale": "en",
   "name": "__MSG_extensionName__",
   "description": "__MSG_extensionDescription__",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "action": {
     "default_title": "__MSG_extensionName__",
     "default_popup": "popup/popup.html",
@@ -20,13 +20,13 @@
     "128": "images/icon128.png"
   },
   "permissions": ["storage"],
-  "host_permissions": ["https://chat.openai.com/*","https://chatgpt.com/*"],
+  "host_permissions": ["https://chat.openai.com/*","https://chatgpt.com/*","https://chat.com/*"],
   "background": {
     "service_worker": "background.js"
   },
   "content_scripts": [
     {
-      "matches": ["https://chat.openai.com/*","https://chatgpt.com/*"],
+      "matches": ["https://chat.openai.com/*","https://chatgpt.com/*","https://chat.com/*"],
       "js": ["scripts/contentScript.js"]
     }
   ],
@@ -41,7 +41,7 @@
         "css/hideMyInChatQuestions.css",
         "css/hideRepliesInChat.css"
       ],
-      "matches": ["https://chat.openai.com/*","https://chatgpt.com/*"]
+      "matches": ["https://chat.openai.com/*","https://chatgpt.com/*","https://chat.com/*"]
     }
   ],
   "commands": {

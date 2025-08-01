@@ -15,7 +15,7 @@ const defaultSettings = {
   }
 };
 const requiredPermissions = {
-  origins: ["https://chat.openai.com/*"],
+  origins: ["https://chat.openai.com/*","https://chatgpt.com/*","https://chat.com/*"],
   permissions: ["storage"]
 }
 
